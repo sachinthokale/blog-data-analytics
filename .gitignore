@@ -1,0 +1,22 @@
+# Node.js files
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.log
+*.tar.gz
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+npm-debug.log
